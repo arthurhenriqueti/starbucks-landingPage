@@ -7,4 +7,4 @@ Projeto proposto pelo Professor Bonieky Lacerda, o layout da página não é de 
 - Visual Studio Code
 
 # Descrição do Projeto
-Criação de um site totalmente responsivo! [Visualizar Projeto](https://arthurhenriqueti.github.io/ProjetoStarbucks/)
+Criação de um site totalmente responsivo! [Visualizar Projeto](https://arthurhenriqueti.github.io/starbucks-landingPage/)
